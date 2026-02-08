@@ -5,6 +5,7 @@ This repository contains my practical work completed while learning Data Analyti
 
 
 📚 **What I have learned**
+
 Through this course, I have learned to:
 
 - Use Python for data analysis
