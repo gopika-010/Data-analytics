@@ -1,11 +1,10 @@
-📊 Data Analytics Learning Portfolio
+📊 **Data Analytics Learning Portfolio**
 
 This repository contains my practical work completed while learning Data Analytics. The notebooks and Power BI file demonstrate my hands-on practice in data handling, analysis, and visualization.
 
 
 
-📚 What I have learned
-
+📚 **What I have learned**
 Through this course, I have learned to:
 
 - Use Python for data analysis
@@ -17,9 +16,9 @@ Through this course, I have learned to:
 
 
 
-📁 Files in this Repository
+📁 **Files in this Repository**
 
-🧠 Practice Notebooks (Core Learning)
+🧠 **Practice Notebooks (Core Learning)**
 
 - "python_basics.ipynb" – Python fundamentals for data work
 - "numpy_practice.ipynb" – Working with arrays and numerical operations
@@ -31,7 +30,7 @@ Through this course, I have learned to:
 
 
 
-📈 Mini Projects
+📈 **Mini Projects**
 
 1️⃣ Restaurant Analysis — "restaurant_analysis.ipynb"
 
@@ -51,13 +50,13 @@ In this project I:
 
 
 
-📊 Power BI Work
+📊 **Power BI Work**
 
 - "relationships.pbix" – Practice file for building data relationships and creating basic dashboards in Power BI.
 
 
 
-🛠 Tools Used
+🛠**Tools Used**
 
 - Python
 - Jupyter Notebook
